@@ -2,7 +2,7 @@
 window.addEventListener('load', () => {
     let long;
     let lat;
-    let loc = document.querySelector(".Location-timezone");
+    let loc = document.querySelector(".location-timezone");
     let temperature = document.querySelector(".temp");
     const tempU = document.querySelector(".unit");
     const tempD = document.querySelector(".temperature-description");
